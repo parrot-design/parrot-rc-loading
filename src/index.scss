@@ -31,7 +31,7 @@ $prefixCls:'parrot';
         position: relative;
         display: inline-block;
 
-        .#{$prefixCls}-overlay{
+        .#{$prefixCls}-loading-overlay{
 
             position: absolute;
             background-color: rgba(0,0,0,.1);

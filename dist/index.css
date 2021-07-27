@@ -25,7 +25,7 @@
   position: relative;
   display: inline-block;
 }
-.parrot-loading-container .parrot-overlay {
+.parrot-loading-container .parrot-loading-overlay {
   position: absolute;
   background-color: rgba(0, 0, 0, 0.1);
   left: 0;
@@ -38,7 +38,7 @@
   align-items: center;
   justify-content: center;
 }
-.parrot-loading-container .parrot-overlay-descriptor-containerer {
+.parrot-loading-container .parrot-loading-overlay-descriptor-containerer {
   display: flex;
   flex-direction: column;
   align-items: center;
