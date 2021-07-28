@@ -55,6 +55,9 @@
 .parrot-loading-warning {
   color: #f8b400;
 }
+.parrot-loading-inherit {
+  color: inherit;
+}
 .parrot-loading-indeterminate {
   animation: circular-dash 1.4s ease-in-out infinite;
   stroke-dasharray: 80px, 200px;

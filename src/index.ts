@@ -9,7 +9,7 @@ export interface ILoadingProps{
     className?:string;
     size?:number;
     style?:React.CSSProperties;
-    color?:'primary'|'danger'|'warning'|'info'|'success'|'default'|'second',
+    color?:'inherit'|'primary'|'danger'|'warning'|'info'|'success'|'default'|'second',
     thickness?:number;//线框宽度
     children?:any;
     loading?:boolean;//指定被包裹元素的加载状态

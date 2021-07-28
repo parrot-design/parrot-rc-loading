@@ -65,7 +65,9 @@ $prefixCls:'parrot';
     &-warning{
         color:$warning-color;
     }
-
+    &-inherit{
+        color:inherit;
+    }
     &-indeterminate{
         animation: circular-dash 1.4s ease-in-out infinite;
         stroke-dasharray: 80px, 200px;
